@@ -1,0 +1,28 @@
+{
+  "name": "node101_01",
+  "version": "1.0.0",
+  "description": "First part of a starter series for Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CircleAcademy/Node101_StartingOut_01.git"
+  },
+  "keywords": [
+    "Chris",
+    "Cates",
+    "Node",
+    "101"
+  ],
+  "author": "Chris Cates",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CircleAcademy/Node101_StartingOut_01/issues"
+  },
+  "homepage": "https://github.com/CircleAcademy/Node101_StartingOut_01#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
