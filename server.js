@@ -1,5 +1,5 @@
 /*
-Node 101 - Part 1
+Node 101 - Lecture 1
 
 The first thing you want to do when building a web application is setup a basic express server.
 At a rudimentary level it's just a REST API.
